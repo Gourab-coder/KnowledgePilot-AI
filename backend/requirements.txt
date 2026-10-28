@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic-settings
+openai
+pymupdf
+sqlalchemy
+psycopg[binary]
+pgvector
+sentence-transformers
+langchain-text-splitters
+python-jose
+passlib
