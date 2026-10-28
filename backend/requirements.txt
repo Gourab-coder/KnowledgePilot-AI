@@ -11,3 +11,4 @@ sentence-transformers
 langchain-text-splitters
 python-jose
 passlib
+httpx
